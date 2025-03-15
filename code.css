@@ -1,0 +1,22 @@
+h2 {
+  color: green;
+  text-decoration: underline;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+#winter {
+  color: blue;
+}
+#fall {
+  color: red;
+}
+#spring {
+  color: pink;
+}
+#summer {
+  color: blue;
+}
+
